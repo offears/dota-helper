@@ -1,0 +1,30 @@
+[
+  {
+    "id": "power-treads",
+    "name": "Power Treads",
+    "image": "/items/power_treads.png",
+    "cost": 1400,
+    "description": "Ботинки, дающие бонус к атаке или маскированию через переключение атрибута.",
+    "type": "Boots",
+    "bonuses": ["+8 к выбранному атрибуту", "+25 Attack Speed"],
+    "attributes": ["STR", "AGI", "INT"]
+  },
+  {
+    "id": "blink-dagger",
+    "name": "Blink Dagger",
+    "image": "/items/blink_dagger.png",
+    "cost": 2250,
+    "description": "Позволяет мгновенно телепортироваться на короткую дистанцию.",
+    "type": "Utility",
+    "bonuses": ["Blink на 1200 дистанции"]
+  },
+  {
+    "id": "black-king-bar",
+    "name": "Black King Bar",
+    "image": "/items/bkb.png",
+    "cost": 4050,
+    "description": "Даёт временную магическую неуязвимость.",
+    "type": "Defense",
+    "bonuses": ["+10 Strength", "Spell Immunity на время действия"]
+  }
+]

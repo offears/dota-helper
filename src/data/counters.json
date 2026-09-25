@@ -1,0 +1,15 @@
+[
+  {
+    "hero": "axe",
+    "counterHeroes": ["viper", "ursa"],
+    "counterItems": ["blink-dagger"],
+    "dangers": [
+      "Berserker's Call заставляет атаковать Axe — держите дистанцию с дальнобойными героями",
+      "Culling Blade добивает героев с низким HP"
+    ],
+    "tips": [
+      "Не стойте рядом группой — Call заденет всех в радиусе",
+      "Фармите вне зоны призыва Axe на линии"
+    ]
+  }
+]

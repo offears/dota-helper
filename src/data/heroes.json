@@ -1,0 +1,60 @@
+[
+  {
+    "id": "juggernaut",
+    "name": "Juggernaut",
+    "image": "/heroes/juggernaut.png",
+    "primaryAttribute": "AGI",
+    "strength": 22,
+    "agility": 26,
+    "intelligence": 16,
+    "roles": ["Carry", "Pusher"],
+    "positions": [1],
+    "abilities": ["Blade Fury", "Healing Ward", "Blade Dance", "Omnislash"],
+    "powerTreads": {
+      "recommended": "AGI",
+      "notes": {
+        "STR": "если нужно больше выживаемости",
+        "AGI": "основной вариант — атака и урон",
+        "INT": "если нужна дополнительная мана под Blade Fury"
+      }
+    }
+  },
+  {
+    "id": "axe",
+    "name": "Axe",
+    "image": "/heroes/axe.png",
+    "primaryAttribute": "STR",
+    "strength": 27,
+    "agility": 16,
+    "intelligence": 18,
+    "roles": ["Initiator", "Durable", "Jungler"],
+    "positions": [3],
+    "abilities": ["Berserker's Call", "Battle Hunger", "Counter Helix", "Culling Blade"],
+    "powerTreads": {
+      "recommended": "STR",
+      "notes": {
+        "STR": "основной вариант — больше HP для инициации",
+        "AGI": "если нужна армия и attack speed",
+        "INT": "редко, если не хватает маны"
+      }
+    }
+  },
+  {
+    "id": "lion",
+    "name": "Lion",
+    "image": "/heroes/lion.png",
+    "primaryAttribute": "INT",
+    "strength": 16,
+    "agility": 14,
+    "intelligence": 24,
+    "roles": ["Support", "Disabler", "Nuker"],
+    "positions": [5],
+    "abilities": ["Earth Spike", "Hex", "Mana Drain", "Finger of Death"],
+    "powerTreads": {
+      "recommended": "INT",
+      "notes": {
+        "INT": "основной вариант — мана под комбо"
+      }
+    }
+  }
+]
